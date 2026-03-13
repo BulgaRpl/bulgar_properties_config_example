@@ -1,0 +1,2 @@
+# bulgar_properties_config_example
+bulgar_properties_config_example
